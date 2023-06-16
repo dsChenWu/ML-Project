@@ -1,6 +1,6 @@
 # ML-Project
 ### Hi There👋
-In this reporsitory, it shows how I did the Machine-Learning for different datasets and give some summary which ML model is better. The aim is to build a predicted model and make the prediction accuracy rate as high as possible.
+In this repository, it shows how I did the Machine-Learning for different datasets and give some summary which ML model is better. The aim is to build a predicted model and make the prediction accuracy rate as high as possible.
 Covered by below topics:
 #### 1. Credit Card Approval Classifier
    🔎 **Abstract :** Constructed a machine learning model to be a assistant to help the bank auto-classify the application.\
